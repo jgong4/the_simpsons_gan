@@ -45,8 +45,8 @@ Approximate training time with one CUDA 10.0 in a Brown CS department machine:
 The Simpsons movie script was obtained from https://simpsonswiki.com/wiki/The_Simpsons_Movie/Transcript.
 
 ### Training
-Train a GPT-2 Text-Generating Model w/ GPU For Free by Max Woolf (https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce#forceEdit=true&sandboxMode=true&scrollTo=H7LoMj4GA4n)
-Result was converted to an .mp3 file (gpt2_result.mp3) using https://ttsmp3.com/.
+- Train a GPT-2 Text-Generating Model w/ GPU For Free by Max Woolf (https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce#forceEdit=true&sandboxMode=true&scrollTo=H7LoMj4GA4n)
+- Result was converted to an .mp3 file (gpt2_result.mp3) using https://ttsmp3.com/.
 
 ## Final Product
 The .gif file made from GAN and the .mp3 file made from GPT-2 were combined using https://www.kapwing.com/.
