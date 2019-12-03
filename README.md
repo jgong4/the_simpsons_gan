@@ -21,7 +21,7 @@ Obtained and modified from PyTorch DCGAN Tutorial (https://pytorch.org/tutorials
 - This saves a plot of generator loss and discriminator loss for a given number of epochs.
 - This also saves a gif of 64 sample images (in 8x8 grid) over the course of training (fps = 5).
 
-Approximate training time with 1 NVDIA 10.0 GPU in a Brown CS Department machine:
+Approximate training time with one CUDA 10.0 in a Brown CS department machine:
 - 150 epochs: ~ 1.5 hours
 - 500 epochs: ~ 5 hours
 - 750 epochs: ~ 8 hours
