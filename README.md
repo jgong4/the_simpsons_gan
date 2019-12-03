@@ -32,5 +32,6 @@ Approximate training time with one CUDA 10.0 in a Brown CS department machine:
 - 001/500 Epoch
 ![Sample Image 1](https://github.com/jgong4/the_simpsons_gan/blob/master/500_epoch_frame_extracted/frame_00_delay-0.2s.gif)
 - 250/500 Epoch
-
+![Sample Image 2](https://github.com/jgong4/the_simpsons_gan/blob/master/500_epoch_frame_extracted/frame_49_delay-0.2s.gif)
 - 500/500 Epoch
+![Sample Image 3](https://github.com/jgong4/the_simpsons_gan/blob/master/500_epoch_frame_extracted/frame_97_delay-0.2s.gif)
