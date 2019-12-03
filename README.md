@@ -26,5 +26,11 @@ Approximate training time with one CUDA 10.0 in a Brown CS department machine:
 - 500 epochs: ~ 5 hours
 - 750 epochs: ~ 8 hours
 
-#### *500_epoch_frame_extracted.zip*
+#### *500_epoch_frame_extracted*
 500_epoch.gif splitted by each frame using https://ezgif.com/split
+#### Sample Images
+- 001/500 Epoch
+![Sample Image 1](https://github.com/jgong4/the_simpsons_gan/blob/master/500_epoch_frame_extracted/frame_00_delay-0.2s.gif)
+- 250/500 Epoch
+
+- 500/500 Epoch
