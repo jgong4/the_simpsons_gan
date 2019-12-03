@@ -1,6 +1,6 @@
 # the_simpsons_gan
 
-##### Data
+### Data
 *bbid.py*
 Bulk Bing Image Downloader
 Obtained from https://github.com/ostrolucky/Bulk-Bing-Image-downloader.git
@@ -10,10 +10,12 @@ Obtained from https://github.com/ostrolucky/Bulk-Bing-Image-downloader.git
 *The Simpsons Characters Data*
 Obtained from https://www.kaggle.com/alexattia/the-simpsons-characters-dataset/download
 
-##### Preprocessing
+### Preprocessing
+```
 *preprocess.py* goes through every image and shapes each to 300x300 pixels
 
 ##### Training
+```
 *gan.py*
 Obtained and modified from PyTorch DCGAN Tutorial (https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
 This saves a plot of generator loss and discriminator loss for a given number of epochs.
