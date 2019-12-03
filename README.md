@@ -1,6 +1,7 @@
 # the_simpsons_gan
 
 ### Data
+###### Over 30k images collected
 #### *bbid.py*
 Bulk Bing Image Downloader
 Obtained from https://github.com/ostrolucky/Bulk-Bing-Image-downloader.git
